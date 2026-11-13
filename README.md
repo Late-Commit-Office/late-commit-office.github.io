@@ -2,7 +2,7 @@
 
 # The Late Commit Office
 
-Built output of [latecommitoffice.com](https://latecommitoffice.com/). This repository is generated automatically; do not edit it by hand.
+Built output of [www.latecommitoffice.com](https://www.latecommitoffice.com/). This repository is generated automatically; do not edit it by hand.
 
 © 2026 The Late Commit Office. All rights reserved. No licence is granted to copy, modify or redistribute the content or code in this repository.
 
